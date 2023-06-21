@@ -3,8 +3,8 @@
 ## Sobre mim
 
 - 👨‍💻 Dev Full Stack Júnior na Nymeria - Desenvolvimento de Sistemas
-- 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas na Universidade Federal de Mato Grosso do Sul (UFMS), com previsão para conclusão em 2022/02.
-- 🎯 Interesse: API , HTML, CSS, Typescript, Angular, Node, Docker e PostgresSQL.
+- 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas na Universidade Federal de Mato Grosso do Sul (2022).
+- 🎯 Interesse: API, HTML, CSS, Typescript, Angular, Node, Docker, Jest.
 
 
 
@@ -44,13 +44,6 @@
   <a href="https://www.linkedin.com/in/f%C3%A1bio-nakazato-19437020a" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-</div>
-
-##
-<div align="center">
-  <a href="https://github.com/fabnaka">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabnaka&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabnaka&layout=compact&langs_count=10&theme=dracula"/>
 </div>
   
 
